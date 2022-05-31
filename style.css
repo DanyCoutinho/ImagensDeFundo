@@ -1,24 +1,8 @@
-div.bloco {
-    background-image: url('');
-    height: 200px;
-    width: 900px;
-    border: 1px solid black;
-    border-radius: 20px;
-    margin: 10px;
-}
-
-div#q1 {
-    background-position: left top;
-}
-
-div#q2 {
-    background-position: left center;
-}
-
-div#q3 {
+body {
+    height: 98vh;
+    border: 1px dashed black;
+    background-image: url('https://gustavoguanabara.github.io/html-css/imagens/mascote.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
     background-position: left bottom;
-}
-
-div#q4 {
-    background-position: right top;
 }
